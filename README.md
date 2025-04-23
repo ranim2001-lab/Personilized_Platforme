@@ -1,7 +1,8 @@
-# 🧑‍💻 Learn Anything Easily With Personalized Learning Paths Using AI
+# Développement d’un Générateur d’Exercices Personnalisés pour l’Apprentissage en Ligne avec Déploiement Cloud
 
 
-Imagine a platform that gives you a detailed personalized roadmap along with resources for any topic that you want to learn, based on your individual needs, time constraints, preferable language, and current knowledge level. This is exactly what our AI-driven web based educational platform delivers.
+Imaginez une plateforme éducative qui fournit un plan d'apprentissage personnalisé détaillé, accompagné de ressources pour chaque sujet que vous souhaitez apprendre, en fonction de vos besoins individuels, de vos contraintes de temps, de votre langue préférée et de votre niveau de connaissance actuel. C’est exactement ce que notre plateforme basée sur l'IA, alimentée par l'API Google Gemini, offre. Grâce à cette technologie avancée, notre plateforme génère des exercices interactifs adaptés à chaque utilisateur, permettant un apprentissage flexible et personnalisé. Cette solution repose sur une phase de migration et de déploiement cloud pour garantir une accessibilité optimale et un environnement d'apprentissage évolutif.
+
 
 ## Installation
 
